@@ -64,7 +64,3 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Adjust `<repository_url>` with your actual GitHub repository URL. This README provides an overview of the project's structure, features, how to get started, usage instructions, how to contribute, and licensing information. It's tailored to reflect the React and Tailwind CSS setup you've used for your Nike clone project.
